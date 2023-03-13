@@ -1,0 +1,70 @@
+[
+    {
+        "title": "DRIP Investing",
+        "icon": "drip.svg",
+        "description": "Web application designed to aid investors who use a Dividend Reinvestment Plan. This application allows you to map out your portfolio, and graphs out your projected returns based on the current dividend yield of your assets. You can also view relevant information about the companies you have added to your portfolio.",
+        "tech": [
+            {
+                "name": "React",
+                "icon": "react.svg"
+            },
+            {
+                "name": "Django",
+                "icon": "django.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap.svg"
+            },
+            {
+                "name": "Postgresql",
+                "icon": "postgresql.svg"
+            },
+            {
+                "name": "Heroku",
+                "icon": "heroku.svg"
+            }
+        ],
+        "githubUrls": {
+            "frontend": "https://github.com/Wkeirn7/drip_frontend",
+            "backend": "https://github.com/Wkeirn7/drip_backend"
+        },
+        "projectUrl": "https://dripinvesting.netlify.app/"
+    },
+    {
+        "title": "Parents-n-Parks",
+        "icon": "parents-n-parks.svg",
+        "description": "Parents-N-Parks is a social media web application that connects Parents with other parents in order to overcome the social isolation that parenthood may bring. It is hard making new friends when you become a parent, but parents-n-parks makes it easier. This application was developed in collaboration with some of my fellow students at Code Platoon. My teammates were Josh Richardson, Tressa Sharma, Anthony Lemke, and Ka Leung.",
+        "tech": [
+            {
+                "name": "React",
+                "icon": "react.svg"
+            },
+            {
+                "name": "Django",
+                "icon": "django.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap.svg"
+            },
+            {
+                "name": "Postgresql",
+                "icon": "postgresql.svg"
+            },
+            {
+                "name": "Material UI",
+                "icon": "materialUI.svg"
+            },
+            {
+                "name": "Netlify",
+                "icon": "netlify.svg"
+            }
+        ],
+        "githubUrls": {
+            "frontend": "https://github.com/Wkeirn7/pnp-project-frontend",
+            "backend": "https://github.com/Wkeirn7/pnp-project-backend"
+        },
+        "projectUrl": "https://www.youtube.com/watch?v=q75z2iHxN2Q&t=5s"
+    }
+]
