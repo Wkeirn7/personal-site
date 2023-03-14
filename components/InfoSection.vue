@@ -21,8 +21,6 @@ const emit = defineEmits<{
 
 function emitScroll(id: string): void{
     emit('scrollClick', id);
-    console.log('infosection output' + id);
-
 }
 </script>
 

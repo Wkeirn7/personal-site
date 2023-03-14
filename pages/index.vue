@@ -39,10 +39,7 @@ const items = ref([
     },
 ]);
 
-const number = ref<number>(5 + 4);
-
 function scrollToElement(id: string): void {
-    console.log('scrolling to: ' + id);
     const element = document.getElementById(id) as Element;
     element.scrollIntoView({ behavior: 'smooth'});
 }

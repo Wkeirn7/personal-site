@@ -30,7 +30,6 @@ const emit = defineEmits<{
 
 function emitClick(id: string): void {
     emit('scrollClicked', id)
-    console.log('scrollmenu output' + id);
 }
 </script>
 
