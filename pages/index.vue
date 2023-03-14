@@ -34,7 +34,7 @@ const items = ref([
     {
         label: 'Resume',
         icon: 'resume-link.svg',
-        url: 'https://drive.google.com/file/d/1tno_e_RpdmJzZjqs7onNdlb0PGMCkFeq/view?usp=sharing',
+        url: 'https://docs.google.com/document/d/1x2_lC28Kx39jewMeZuqgvfDJdgQbCO3o2WFXqm7my7U/edit?usp=sharing',
         target: '_blank'
     },
 ]);
