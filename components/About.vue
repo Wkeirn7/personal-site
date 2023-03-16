@@ -40,20 +40,20 @@
             >
                 <div class="sm:h-30rem h-20rem modal-body">
                     <h1 class="tron-text-orange">Tech I Use</h1>
-                    <div class="about-logos flex flex-wrap flex-row gap-4 align-items-end justify-content-around align-content-center">
-                        <Tech icon-name="React Js" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/react.svg" />
-                        <Tech icon-name="Django" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/django.svg" />
-                        <Tech icon-name="Postgresql" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/postgresql.svg" />
-                        <Tech icon-name="Serverless" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/serverless.svg" />
+                    <div class="about-logos flex flex-wrap flex-row gap-4 sm:gap-8 align-items-end justify-content-around align-content-center">
+                        <Tech icon-name="React Js" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/react.svg" />
+                        <Tech icon-name="Django" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/django.svg" />
+                        <Tech icon-name="Postgresql" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/postgresql.svg" />
+                        <Tech icon-name="Serverless" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/serverless.svg" />
                         <Tech icon-name="MySQL" text-class="tron-text-blue text-sm" icon-class="sm:w-15rem w-6rem" icon-path="/mysql.svg" />
-                        <Tech icon-name="Vue.Js" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/vue.svg" />
-                        <Tech icon-name="Nuxt.js" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/nuxt.svg" />
-                        <Tech icon-name="Typescript" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/typescript.svg" />
-                        <Tech icon-name="Javascript" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/javascript.svg" />
-                        <Tech icon-name="Python" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/python.svg" />
-                        <Tech icon-name="Bootstrap" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/bootstrap.svg" />
-                        <Tech icon-name="Material UI" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/materialUI.svg" />
-                        <Tech icon-name="PrimeVue" text-class="tron-text-blue text-sm" icon-class="sm:w-10rem w-4rem" icon-path="/primevue.svg" />
+                        <Tech icon-name="Vue.Js" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/vue.svg" />
+                        <Tech icon-name="Nuxt.js" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/nuxt.svg" />
+                        <Tech icon-name="Typescript" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/typescript.svg" />
+                        <Tech icon-name="Javascript" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/javascript.svg" />
+                        <Tech icon-name="Python" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/python.svg" />
+                        <Tech icon-name="Bootstrap" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/bootstrap.svg" />
+                        <Tech icon-name="Material UI" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/materialUI.svg" />
+                        <Tech icon-name="PrimeVue" text-class="tron-text-blue text-sm" icon-class="sm:w-8rem w-4rem" icon-path="/primevue.svg" />
                     </div>
                 </div>
             </Dialog>
