@@ -5,7 +5,7 @@
                 <img alt='United States Marine Corps Insignia' src="/usmc.svg" class="sm:w-10rem w-5rem"/>
                 <img alt='Code Platoon Logo' src="/codeplatoon.svg" class="sm:w-10rem w-5rem"/>
             </div>
-            <p class="tron-text-blue text-center about-content px-5 text-sm sm:text-sm md:text-2xl lg:text-5xl">
+            <p class="tron-text-blue text-center about-content px-5 text-sm sm:text-sm md:text-2xl lg:text-4xl">
                 Hello! I am a Software Engineer currently residing in Pennsylvania.
                 I was an Aviation Radar Technician in the military for 5 years, and after my enlistment ended 
                 I attended Code Platoon's software engineering course. I have since gained professional
