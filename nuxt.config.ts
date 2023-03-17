@@ -11,4 +11,11 @@ export default defineNuxtConfig({
         transpile: ['primevue']
       },
       ssr: false,
+      app: {
+        head: {
+          link: [
+            { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }
+          ]
+        }
+      }
 })
