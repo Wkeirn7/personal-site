@@ -62,7 +62,7 @@ function handleCustomClick(target: HTMLFormElement): void {
 }
 
 .email-form {
-    background-color: rgba(200, 200, 200, 0.238);
+    background-color: rgba(57, 57, 57, 0.763);
     height: 70vh;
     border-width: 2px;
     border-style: solid;

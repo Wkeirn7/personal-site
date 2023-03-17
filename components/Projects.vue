@@ -54,7 +54,7 @@ onMounted(() => {
 }
 
 .projects-container {
-    background-color: rgba(200, 200, 200, 0.238);
+    background-color: rgba(57, 57, 57, 0.763);
     border-width: 2px;
     border-style: solid;
     border-color: rgba(112, 255, 248, 0.866);
