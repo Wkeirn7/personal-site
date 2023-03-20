@@ -1,8 +1,8 @@
 const client_manifest = {
-  "_composables.e2ca8809.js": {
+  "_composables.99bef6f1.js": {
     "resourceType": "script",
     "module": true,
-    "file": "composables.e2ca8809.js",
+    "file": "composables.99bef6f1.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
@@ -18,10 +18,10 @@ const client_manifest = {
     "css": [
       "error-404.23f2309d.css"
     ],
-    "file": "error-404.d24defb3.js",
+    "file": "error-404.74d0d631.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.e2ca8809.js"
+      "_composables.99bef6f1.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
@@ -41,10 +41,10 @@ const client_manifest = {
     "css": [
       "error-500.aa16ed4d.css"
     ],
-    "file": "error-500.8e242314.js",
+    "file": "error-500.bb921e48.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.e2ca8809.js"
+      "_composables.99bef6f1.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
@@ -55,7 +55,7 @@ const client_manifest = {
   },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
-    "file": "entry.a065d4d6.css",
+    "file": "entry.6ed88fc9.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   },
   "node_modules/nuxt/dist/app/entry.mjs": {
@@ -70,17 +70,17 @@ const client_manifest = {
       "primeicons.5e10f102.svg"
     ],
     "css": [
-      "entry.a065d4d6.css"
+      "entry.6ed88fc9.css"
     ],
     "dynamicImports": [
       "virtual:nuxt:/home/william/Desktop/personal_projects/personal-site/.nuxt/error-component.mjs"
     ],
-    "file": "entry.272c9181.js",
+    "file": "entry.60b88b38.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.mjs"
   },
-  "entry.a065d4d6.css": {
-    "file": "entry.a065d4d6.css",
+  "entry.6ed88fc9.css": {
+    "file": "entry.6ed88fc9.css",
     "resourceType": "style"
   },
   "color.473bc8ca.png": {
@@ -156,7 +156,7 @@ const client_manifest = {
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "error-component.1f41af01.js",
+    "file": "error-component.2bb4ead9.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
