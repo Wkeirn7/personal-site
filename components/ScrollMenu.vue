@@ -1,24 +1,27 @@
 <template>
     <div>
         <div class="flex sm:flex-row flex-column gap-5">
-                <span 
-                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer"
+                <button 
+                    type="button"
+                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer nav-button w-8"
                     @click="emitClick('about-nav')"
                 >
                     About Me
-                </span>
-                <span 
-                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer"
+                </button>
+                <button 
+                    type="button"
+                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer nav-button w-8"
                     @click="emitClick('projects-nav')"
                 >
                     Projects
-                </span>
-                <span 
-                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer"
+                </button>
+                <button
+                    type="button"
+                    class="tron-nav-text sm:text-4xl text-2xl cursor-pointer nav-button w-8"
                     @click="emitClick('contact-nav')"
                 >
                     Contact
-                </span>
+                </button>
         </div>
     </div>
 </template>
@@ -34,5 +37,9 @@ function emitClick(id: string): void {
 </script>
 
 <style>
-
+    .nav-button {
+        background-color: black;
+        border-color: black;
+        text-align: left;
+    }
 </style>

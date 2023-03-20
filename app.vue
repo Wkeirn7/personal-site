@@ -15,6 +15,8 @@ body {
 .is-app-background {
     background-size: cover;
     background-color: black;
+    background-image: url("/grid.svg");
+    background-size: 170rem;
 }
 
 .tron-text-blue {
