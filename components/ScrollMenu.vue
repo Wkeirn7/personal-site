@@ -39,7 +39,7 @@ function emitClick(id: string): void {
 <style>
     .nav-button {
         background-color: black;
-        border-color: black;
+        border-width: 0px;
         text-align: left;
     }
 </style>
