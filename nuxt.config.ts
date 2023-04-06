@@ -13,9 +13,10 @@ export default defineNuxtConfig({
       ssr: false,
       app: {
         head: {
+          title: 'William Keirn',
           link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }
-          ]
+          ],
         }
       }
 })

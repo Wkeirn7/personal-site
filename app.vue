@@ -4,6 +4,26 @@
 
 <script setup lang="ts">
 import index from './pages/index.vue';
+
+useHead({
+  meta: [
+    { 
+        name: 'description', 
+        content: 'Portfolio Website for William Keirn, Software Engineer.', 
+    },
+    {
+        name: 'keywords',
+        content: [
+            'Software Engineer',
+            'Software Developer',
+            'Keirn',
+            'William',
+            'Coding',
+            'Programmer',
+        ],
+    }
+  ],
+});
 </script>
 
 
